@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "e9b9e0cc-6957-41c1-adc2-f88b6c52144f",
+      "name": "Apple",
+      "price": 38,
+      "createdAt": "2021-10-31T16:51:03.523Z"
+    },
+    {
+      "id": "329cb2d3-f0b7-4738-84fd-9082fced2b56",
+      "name": "Cucumber",
+      "price": 13,
+      "createdAt": "2021-10-31T16:51:20.149Z"
+    },
+    {
+      "id": "570d883c-6726-4fbd-8415-9ae16e51a90c",
+      "name": "Papaya",
+      "price": 66,
+      "createdAt": "2021-10-31T16:51:29.583Z"
+    },
+    {
+      "id": "6f202401-b2db-40d5-aa4b-ae79e2685eef",
+      "name": "Eno",
+      "price": 8,
+      "createdAt": "2021-10-31T16:51:44.805Z"
+    },
+    {
+      "id": "9fa5969f-b6c7-4cc4-83fe-59c53f67d86e",
+      "name": "Shampoo",
+      "price": 250,
+      "createdAt": "2021-10-31T16:51:53.505Z"
+    },
+    {
+      "id": "34012648-bce3-443a-bcf3-7560f676c0f7",
+      "name": "Deo",
+      "price": 120,
+      "createdAt": "2021-10-31T16:51:59.528Z"
+    },
+    {
+      "id": "07988c61-2cd6-4934-b93f-ad227e634de6",
+      "name": "Shoe",
+      "price": 500,
+      "createdAt": "2021-10-31T16:52:18.190Z"
+    },
+    {
+      "id": "187f81d8-8c69-486b-95eb-a1769384d6c7",
+      "name": "IPhone",
+      "price": 30000,
+      "createdAt": "2021-10-31T16:52:34.070Z"
+    },
+    {
+      "id": "3b2390a2-6251-41b2-abd2-e890e7dee22c",
+      "name": "Android",
+      "price": 15000,
+      "createdAt": "2021-10-31T16:52:40.591Z"
+    },
+    {
+      "id": "7662fef0-a8d9-446c-9731-c98bfc87c16e",
+      "name": "Socks",
+      "price": 89,
+      "createdAt": "2021-10-31T16:52:56.401Z"
+    }
+  ]
+}
